@@ -1,11 +1,68 @@
-h1{
-    color: red;
-    text-align: center;
-}
+
 
 body{
     background-color: black;
-    border: 10px solid red;
-    border-radius: 10px;
     
+
+}
+
+.parents{
+    display: flex;
+    justify-content: end;
+    font-size: x-large;
+    margin-right: 45px;
+}
+
+.aboba{
+    color: white;
+    margin-right: 30px;
+}
+
+.ALA{
+    margin-top: 90px;
+}
+
+b{
+    color: white;
+    font-size: xx-large;
+    margin-left: 80px;
+    
+}
+
+.aza{
+    color: white;
+    margin-left: 80px;
+
+}
+
+p1{
+    color: red;
+}
+
+p2{
+    color: blue;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    margin-left: 79px;
+    color: black;
+    border: 3px solid rgb(233, 23, 58);
+    border-radius: 7px;
+    background-color: rgb(233, 23, 58);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 500px;
+    margin-left: 600px;
+    margin-top: -250px;
+}
+
+button:hover{
+    background-color: rgb(194, 16, 46);
+    border: 5px solid rgb(194, 16, 46)
 }
